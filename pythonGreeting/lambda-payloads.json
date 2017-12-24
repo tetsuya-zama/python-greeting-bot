@@ -1,0 +1,10 @@
+{
+    "pythonGreeting": {
+        "lambda": {
+            "message": {
+                "type": "text",
+                "text": "こんばんは"
+            }
+        }
+    }
+}
